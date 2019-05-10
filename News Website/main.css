@@ -421,14 +421,10 @@ footer{
 }
 .footer2 .class1 img{
 	margin-top: 25px;
-	/*display: center;*/
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	/*margin:10px 440px 10px 440px;*/
-	/*	margin-left: 40px;
-	margin-right: 440px;
-*/	
+
 }
 .class2{
 	padding-top: 10px;
